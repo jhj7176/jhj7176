@@ -2,7 +2,7 @@
 
 
 ## :relieved:Hi there
-Welcome👋, I'm HyeonginJin Jeon [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2342B3E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" title="jhj7176@gmail.com"/>
+Welcome👋, I'm HyeonginJin Jeon [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhj7176%2Fjhj7176&count_bg=%2351ABDF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" title="jhj7176@gmail.com"/>
 
 
 ## :wrench:Tech Stack 
